@@ -1,0 +1,29 @@
+.container {
+	max-width: vw(1920);
+	margin: 0 auto;
+}
+
+body {
+	margin: 0;
+	font-family: "Proxima Nova", sans-serif;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+img {
+	max-width: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+button {
+	outline: none;
+	border: none;
+	cursor: pointer;
+}
